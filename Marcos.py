@@ -1,0 +1,1 @@
+print("sou Marcos Vinicius Jardim Muniz tenho 19 anos curso engenharia eletrônica no Cefet-RJ")
